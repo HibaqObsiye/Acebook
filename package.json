@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "firebase": "^9.13.0",
+    "moments": "^0.0.2",
     "react-audio-player": "^0.17.0"
   }
 }
